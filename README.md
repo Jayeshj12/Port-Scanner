@@ -136,4 +136,5 @@ Only scan systems and networks that you own or have explicit permission to test.
 **Jayesh**
 
 B.Tech Cybersecurity Graduate
-Learning Python • Computer Networking • Cybersecurity
+
+Currently learning Python, Computer Networking and Cybersecurity.
